@@ -1,0 +1,3 @@
+- Cyber Incident Response Team or CIRT is a team that specializes in handling severe, critical alerts.
+- They provide their expertise in investigating, analyzing and recovering from the threat
+- They do not replace [Security Operation Center (SOC)](/1.%20Concepts/Blue%20Team%20Introduction/SOC.md), rather they provide additional help. 
