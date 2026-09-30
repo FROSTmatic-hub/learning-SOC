@@ -1,0 +1,6 @@
+- Alert Severity tells us how serious/critical is an alert.
+		- Types of Severity:
+			- **Low / Information:** This alert is something that is worth knowing but does not require immediate attention.
+			- **Medium / Moderate:** Needs attention but not immediately. 
+			- **High / Severe**: Potentially serious alert and should be resolved quickly
+			- **Critical / Urgent:** REQUIRES ALL THE ATTENTION

@@ -1,0 +1,1 @@
+- Alert Assignee is the analyst responsible for investigating the alert.

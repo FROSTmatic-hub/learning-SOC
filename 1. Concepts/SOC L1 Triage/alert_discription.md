@@ -1,0 +1,5 @@
+- Alert Description provides additional information about the alert
+		- Such as:
+			- What triggered the detection rules?
+			- What systems were affected?
+			- Etc.

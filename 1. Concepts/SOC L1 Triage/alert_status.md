@@ -1,0 +1,5 @@
+- Alert Status tells us whether an alert investigation is in process.
+		- Types of Status:
+			- **New / Unassigned:** Nobody is investigating the alert
+			- **In-Progress / Pending:** Someone is actively investigating the alert
+			- **Resolved / Closed:** The alert investigation is finished

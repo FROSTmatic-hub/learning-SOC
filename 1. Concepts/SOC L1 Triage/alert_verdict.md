@@ -1,0 +1,4 @@
+- Alert Verdict tells us what the analyst concluded about the alert
+		- It could be:
+			- **True Positive:** The alert is real and is a threat to the organization.
+			- **False Positive:** The alert was suspicious but investigation showed no real threats.

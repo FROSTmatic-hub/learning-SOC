@@ -1,0 +1,3 @@
+- Alert Time tell us when the alert was generated
+		- Alert Time ≠ Event Time
+		- The event time gets generated first, and it might take [Security Solutions](/1.%20Concepts/SOC%20L1%20Triage/security_solutions.md) a minute or two to detect it. 

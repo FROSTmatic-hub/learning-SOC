@@ -1,0 +1,6 @@
+- Alert Field provides additional technical information about the alert
+		- Such as:
+			- IP Address
+			- Command Execution
+			- Process Execution
+			- etc. 

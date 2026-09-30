@@ -1,0 +1,6 @@
+- Alert Name gives us a quick idea on what triggered the alert.
+		- For Example:
+			- An unusual IP Login
+			- Unusual PowerShell execution
+			- Email marked as Phishing Attack
+			- etc. 
