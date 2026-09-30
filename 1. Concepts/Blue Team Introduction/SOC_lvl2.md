@@ -1,0 +1,5 @@
+- SOC L2 Analysts are more experienced in handling critical alerts.
+- When SOC Level 1 Analyst escalates an alert:
+	- They perform deeper analysis
+	- Investigate the threat
+	- Try to determine the outcome and impact of the threat
