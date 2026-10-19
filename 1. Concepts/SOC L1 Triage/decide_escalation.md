@@ -1,0 +1,2 @@
+- The [SOC Level 1 Analyst](/1.%20Concepts/Blue%20Team%20Introduction/SOC_lvl1.md) should decide whether the alert should be escalated to [SOC Level 2 Analyst](/1.%20Concepts/Blue%20Team%20Introduction/SOC_lvl2.md).
+- If not, then close the alert.

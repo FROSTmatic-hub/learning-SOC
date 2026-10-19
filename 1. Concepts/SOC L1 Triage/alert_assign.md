@@ -1,0 +1,2 @@
+- After prioritizing the alert, the analyst can assign the alert to themselves
+- The person who assigns the alert to himself/herself is called  [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md)

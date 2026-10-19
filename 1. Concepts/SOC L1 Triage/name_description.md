@@ -1,0 +1,2 @@
+- The [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) should not immediately jump into conclusions.
+- They should read the [Alert Name](/1.%20Concepts/SOC%20L1%20Triage/alert_name.md) and [Alert Description](/1.%20Concepts/SOC%20L1%20Triage/alert_discription.md) to get a better idea about what generated the alert.

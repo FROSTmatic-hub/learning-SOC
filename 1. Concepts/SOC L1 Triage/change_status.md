@@ -1,0 +1,2 @@
+- The [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) can now change the [Alert Status](/1.%20Concepts/SOC%20L1%20Triage/alert_status.md) to `In Progress / Pending`
+- This will tell the other [SOC](/1.%20Concepts/Blue%20Team%20Introduction/SOC.md) analyst that the alert is under investigation.

@@ -1,0 +1,6 @@
+- Whether the [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) used the [Alert Workbook](/1.%20Concepts/SOC%20L1%20Triage/alert_workbook.md) or not, they have to further investigate the alert in SIEM.
+- The [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) can look for clues such as:
+	- What caused the alert?
+	- What users were affected?
+	- What devices were affected?
+	- etc.

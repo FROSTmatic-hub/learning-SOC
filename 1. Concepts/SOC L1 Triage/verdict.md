@@ -1,0 +1,2 @@
+- The [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) has to make a final [Alert Verdict](/1.%20Concepts/SOC%20L1%20Triage/alert_verdict.md).
+- Whether the alert is True positive or False Positive.

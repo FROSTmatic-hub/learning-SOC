@@ -1,0 +1,2 @@
+- After understanding the [Alert Name](/1.%20Concepts/SOC%20L1%20Triage/alert_name.md) and [Alert Description](/1.%20Concepts/SOC%20L1%20Triage/alert_discription.md).
+- The [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) should read and understand the technical [Alert Field](/1.%20Concepts/SOC%20L1%20Triage/alert_field.md)

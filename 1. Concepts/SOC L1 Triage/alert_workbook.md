@@ -1,0 +1,1 @@
+- An alert workbook is a set of predefined investigating instructions that is designed to solve one particular type of alert

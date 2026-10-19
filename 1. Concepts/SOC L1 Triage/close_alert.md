@@ -1,0 +1,2 @@
+- After everything is done, the [Alert Assignee](/1.%20Concepts/SOC%20L1%20Triage/alert_assignee.md) can close the alert.
+- Change the [Alert Status](/1.%20Concepts/SOC%20L1%20Triage/alert_status.md) to `Closed /  Resolved`

@@ -1,0 +1,2 @@
+- A SOC analyst cannot investigate all the Alert.
+		- The analyst should look at the [Alert Severity](/1.%20Concepts/SOC%20L1%20Triage/alert_severity.md) and decide prioirty accordingly.
